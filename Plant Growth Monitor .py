@@ -3,46 +3,31 @@
    Step into the future of farming with your Plant Growth Monitor and Smart Irrigation System! 🌱🚀 
    This project, powered by micro:bit technology, makes it a breeze for farmers to keep an eye on soil moisture, light, and temperature. 
    The micro:bit logs data, and the smart irrigation system kicks in to water the crops precisely when needed. 
-   Embrace simplicity, boost your crop yield, and let technology revolutionize your farming experience! 🌾💡
-
+    🌾💡
 
 ## Parts of the Micro:bit Used & other resources
    
    Pins: To connect the external sensors to the micro:bit.
-   
    Light sensor : To measue the amount f sunlight the crop or plant is receiving from the environment.
-   
    Soil Moisture Sensor: To measure the soi moisture sensor.
-  
    Water pump: A pump to irrigate the crops or plants when needed.
 
 
 ## Programming Concepts
-   
    Variables: Storage containers for data, like holding information about moisture levels, temperature, and light intensity.
-
    Functions: Blocks of code that perform specific tasks, such as displaying temperature on button press or managing the main program loop.
-
    Conditional Statements: If-else statements decide which actions to take based on conditions. For example, if the moisture level is below 50%, it displays a message about needing water.
-
    Loops: The on_forever function represents a continuous loop that repeatedly checks and responds to sensor data.
-
    Math Operations: Mathematical calculations, like calculating the percentage of moisture level or rounding the value.
-
    Logging: Storing information systematically, demonstrated by logging moisture, temperature, and light level data.
-
    Control Flow: The flow of execution, moving from one part of the code to another based on conditions and loops.
 
-
-## Programming Language
-   Python
-
+## Programming Language: Python
 
 ## Coding Environment or Text Editor
    Microsoft Makecode (https://makecode.microbit.org/#editor)
 
 ## Feel free to comment or contribute
-
 """
 
 
