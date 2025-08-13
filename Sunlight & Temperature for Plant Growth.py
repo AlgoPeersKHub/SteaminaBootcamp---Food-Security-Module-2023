@@ -1,6 +1,6 @@
 """
 ## Introduction
-   Step into the future of farming with your Plant Growth Monitor and Smart Irrigation System! 🌱🚀 
+   Step into the future of farming with your Plant Growth Monitor! 🌱🚀 
    This project, powered by micro:bit technology, makes it a breeze for farmers to keep an eye on light, and temperature. 
    
 ## Parts of the Micro:bit Used & other resources
